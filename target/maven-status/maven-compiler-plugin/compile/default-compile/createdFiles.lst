@@ -1,0 +1,3 @@
+com\logicbig\example\AppConfig.class
+com\logicbig\example\MySingletonBean.class
+com\logicbig\example\MyPrototypeBean.class
